@@ -11,9 +11,9 @@
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
-    "name1": "Équipe 3",
+    "name1": "Lazio",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfTaRfTj63SobSI6fLE_pJHQzVcgCUR7Sqg&s",
-    "name2": "Équipe 4",
+    "name2": "Atalanta",
     "champ": "Premier League",
     "heure": "21:00",
     "date": "2024-10-11",
@@ -21,9 +21,9 @@
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Équipe 5",
+    "name1": "Arsenal",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
-    "name2": "Équipe 6",
+    "name2": "Man Utd",
     "champ": "Bundesliga",
     "heure": "18:30",
     "date": "2024-10-12",
