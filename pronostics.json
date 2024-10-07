@@ -1,13 +1,13 @@
 [
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name1": "Équipe 1",
+    "name1": "Real Madrid",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Équipe 2",
+    "name2": "Barcelona",
     "champ": "Ligue 1",
     "heure": "20:00",
     "date": "2024-10-10",
-    "pro": "Pronostic ici"
+    "pro": "V1"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
