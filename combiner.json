@@ -3,15 +3,15 @@
   "coupons": [
     {
       "title": "Code Coupon du Jour",
-      "value": "CODE1"
+      "value": "XBTRA"
     },
     {
       "title": "Code Coupon Tennis",
-      "value": "CODE2"
+      "value": "GJSJC"
     },
     {
       "title": "Code Coupon Mixte",
-      "value": "CODE3"
+      "value": "SJKDC"
     }
   ]
 }
