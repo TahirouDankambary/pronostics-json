@@ -1,8 +1,8 @@
 [
   {
-    "photo1": "https://example.com/photo_equipe1.jpg",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
     "name1": "Équipe 1",
-    "photo2": "https://example.com/photo_equipe2.jpg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
     "name2": "Équipe 2",
     "champ": "Ligue 1",
     "heure": "20:00",
@@ -10,9 +10,9 @@
     "pro": "Pronostic ici"
   },
   {
-    "photo1": "https://example.com/photo_equipe3.jpg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/800px-S.S._Lazio_badge.svg.png",
     "name1": "Équipe 3",
-    "photo2": "https://example.com/photo_equipe4.jpg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYfTaRfTj63SobSI6fLE_pJHQzVcgCUR7Sqg&s",
     "name2": "Équipe 4",
     "champ": "Premier League",
     "heure": "21:00",
@@ -20,9 +20,9 @@
     "pro": "Pronostic ici aussi"
   },
   {
-    "photo1": "https://example.com/photo_equipe5.jpg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
     "name1": "Équipe 5",
-    "photo2": "https://example.com/photo_equipe6.jpg",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMdCAEBSFbrXCm5vEUVdMcXn34hZswKLCFw&s",
     "name2": "Équipe 6",
     "champ": "Bundesliga",
     "heure": "18:30",
