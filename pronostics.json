@@ -1,0 +1,12 @@
+[
+  {
+    "photo1": "https://example.com/photo_equipe1.jpg",
+    "name1": "Équipe 1",
+    "photo2": "https://example.com/photo_equipe2.jpg",
+    "name2": "Équipe 2",
+    "champ": "Ligue 1",
+    "heure": "20:00",
+    "date": "2024-10-10",
+    "pro": "Pronostic ici"
+  }
+]
