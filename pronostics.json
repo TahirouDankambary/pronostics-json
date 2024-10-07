@@ -8,5 +8,26 @@
     "heure": "20:00",
     "date": "2024-10-10",
     "pro": "Pronostic ici"
+  },
+  {
+    "photo1": "https://example.com/photo_equipe3.jpg",
+    "name1": "Équipe 3",
+    "photo2": "https://example.com/photo_equipe4.jpg",
+    "name2": "Équipe 4",
+    "champ": "Premier League",
+    "heure": "21:00",
+    "date": "2024-10-11",
+    "pro": "Pronostic ici aussi"
+  },
+  {
+    "photo1": "https://example.com/photo_equipe5.jpg",
+    "name1": "Équipe 5",
+    "photo2": "https://example.com/photo_equipe6.jpg",
+    "name2": "Équipe 6",
+    "champ": "Bundesliga",
+    "heure": "18:30",
+    "date": "2024-10-12",
+    "pro": "Encore un autre pronostic"
   }
 ]
+
